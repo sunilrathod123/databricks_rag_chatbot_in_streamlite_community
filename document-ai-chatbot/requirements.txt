@@ -1,0 +1,4 @@
+streamlit==1.42.2
+databricks-sdk>=0.40.0
+databricks-openai>=0.1.0
+requests>=2.31.0
